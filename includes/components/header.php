@@ -2,7 +2,7 @@
 
 // Logo configuration
 $logo_path = ROOT_PATH . 'assets/images/logo.webp';
-$logo_alt = 'Buffalo';
+$logo_alt = 'Logo';
 ?>
 <header class="header">
     <div class="container-fluid">
